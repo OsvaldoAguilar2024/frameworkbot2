@@ -16,7 +16,7 @@ def main():
 
 
 
-    components.iframe("https://www.chatbase.co/chatbot-iframe/1iefHFyX9Jzx6bU577Mhb")
+    components.iframe("https://www.chatbase.co/chatbot-iframe/1iefHFyX9Jzx6bU577Mhb", height=400)
 
 
 
